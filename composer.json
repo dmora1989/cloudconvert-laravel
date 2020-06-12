@@ -1,5 +1,5 @@
 {
-    "name": "robbiep/cloudconvert-laravel",
+    "name": "dmora/cloudconvert-laravel",
     "description": "A Laravel wrapper for the CloudConvert API",
     "keywords": ["cloudconvert", "laravel", "laravel4", "laravel5", "screenshot", "conversion", "office", "documents"],
     "license": "MIT",
